@@ -357,7 +357,7 @@ section {
 video {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
   display: none;
   background-color: #000;
 }
